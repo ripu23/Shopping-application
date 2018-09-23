@@ -3,7 +3,7 @@ This is a basic shopping application, which can also be used as a a boiler plate
 The application uses following technologies: **Java, JavaScript, HTML** <br/>
 It is based on following frameworks: **Spring boot, Angular.js, jQuery, lodash** <br/>
 
-**H2** database has been used to persist and entities. <br/>
+**H2** database has been used to persist the entities. <br/>
 
 Steps to download the application / code: <br/>
 
