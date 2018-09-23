@@ -22,4 +22,7 @@ Steps to download the application / code: <br/>
 2. If your system does not have maven installed, install it from [here](https://maven.apache.org/download.cgi)
 3. Import the project in your code editor as an existing maven module
 4. Run the project as **maven clean**
-4. Run the project as **maven install**
+5. Run the project as **maven install**
+6. Run the class **App.java** as java application and **not** on server
+7. Go to your favourite browser and hit the address 127.0.0.1:8080
+8. Register as a new user and login
